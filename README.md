@@ -3,9 +3,7 @@ Evaluating the Effectiveness of NightShade in Disrupting Image Generative AI Mod
 
 ## Authors
 
-### Paul Ge
-**Emory University**  
-[haojie.ge@emory.edu](mailto:haojie.ge@emory.edu)
+### Paul Ge [haojie.ge@emory.edu](mailto:haojie.ge@emory.edu)
 
 ### Ao Lyu
 **Emory University**  
