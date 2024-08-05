@@ -9,7 +9,7 @@ Evaluating the Effectiveness of NightShade in Disrupting Image Generative AI Mod
 
 ### Tuan Vinh | [tvinh@emory.edu](mailto:tvinh@emory.edu)
 
-### Frank Feng | [frank.feng@emory.edu](mailto:frank.feng@emory.edu)
+### Frank Feng | [frank.feng2@emory.edu](mailto:frank.feng@emory.edu)
 
 ### Claudia Yang | [claudia.yang@emory.edu](mailto:claudia.yang@emory.edu)
 
